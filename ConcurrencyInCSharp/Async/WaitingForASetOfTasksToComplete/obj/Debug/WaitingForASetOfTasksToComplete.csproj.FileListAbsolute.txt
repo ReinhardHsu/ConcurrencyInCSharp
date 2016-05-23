@@ -1,0 +1,10 @@
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\WaitingForASetOfTasksToComplete.exe.config
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\WaitingForASetOfTasksToComplete.exe
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\WaitingForASetOfTasksToComplete.pdb
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\Nito.AsyncEx.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\Nito.AsyncEx.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\obj\Debug\WaitingForASetOfTasksToComplete.csprojResolveAssemblyReference.cache
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\obj\Debug\WaitingForASetOfTasksToComplete.exe
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\WaitingForASetOfTasksToComplete\obj\Debug\WaitingForASetOfTasksToComplete.pdb

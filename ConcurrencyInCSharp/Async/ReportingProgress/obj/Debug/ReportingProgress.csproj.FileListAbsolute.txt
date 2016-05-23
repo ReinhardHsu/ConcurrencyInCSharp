@@ -1,0 +1,9 @@
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\ReportingProgress.exe.config
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\ReportingProgress.exe
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\ReportingProgress.pdb
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.exe
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.pdb

@@ -1,0 +1,12 @@
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\obj\Debug\Async-PausingForAPeriodOfTime.csprojResolveAssemblyReference.cache
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Nito.AsyncEx.Concurrent.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Nito.AsyncEx.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Nito.AsyncEx.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Nito.AsyncEx.Concurrent.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Async.PausingForAPeriodOfTime.exe.config
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Async.PausingForAPeriodOfTime.exe
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\bin\Debug\Async.PausingForAPeriodOfTime.pdb
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\obj\Debug\Async.PausingForAPeriodOfTime.exe
+E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async-PausingForAPeriodOfTime\obj\Debug\Async.PausingForAPeriodOfTime.pdb
