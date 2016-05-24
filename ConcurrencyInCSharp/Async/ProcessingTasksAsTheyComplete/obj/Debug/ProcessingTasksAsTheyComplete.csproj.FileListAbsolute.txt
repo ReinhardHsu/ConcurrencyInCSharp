@@ -1,0 +1,10 @@
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\ProcessingTasksAsTheyComplete.exe.config
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\ProcessingTasksAsTheyComplete.exe
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\ProcessingTasksAsTheyComplete.pdb
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\Nito.AsyncEx.dll
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\Nito.AsyncEx.xml
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\obj\Debug\ProcessingTasksAsTheyComplete.csprojResolveAssemblyReference.cache
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\obj\Debug\ProcessingTasksAsTheyComplete.exe
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ProcessingTasksAsTheyComplete\obj\Debug\ProcessingTasksAsTheyComplete.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async.PausingForAPeriodOfTime", "Async-PausingForAPeriodOfTime\Async.PausingForAPeriodOfTime.csproj", "{CE124F4B-1A78-4897-BE63-136D480C9F2B}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitingForASetOfTasksToComplete", "Async\WaitingForASetOfTasksToComplete\WaitingForASetOfTasksToComplete.csproj", "{5B6130E0-96B2-48A3-BD7F-B6239D6E9DD2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitingForAnyTaskToComplete", "Async\WaitingForAnyTaskToComplete\WaitingForAnyTaskToComplete.csproj", "{E6472007-5DCA-4F15-87DD-D430A8309C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessingTasksAsTheyComplete", "Async\ProcessingTasksAsTheyComplete\ProcessingTasksAsTheyComplete.csproj", "{A8D46E7C-5A95-4A37-90FA-8EBD743F5910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingExceptionsFromAsyncTaskMethods", "Async\HandlingExceptionsFromAsyncTaskMethods\HandlingExceptionsFromAsyncTaskMethods.csproj", "{D0037EBE-49B8-4F9C-AE0D-816C4E54865F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,14 @@ Global
 		{E6472007-5DCA-4F15-87DD-D430A8309C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6472007-5DCA-4F15-87DD-D430A8309C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6472007-5DCA-4F15-87DD-D430A8309C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D46E7C-5A95-4A37-90FA-8EBD743F5910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D46E7C-5A95-4A37-90FA-8EBD743F5910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D46E7C-5A95-4A37-90FA-8EBD743F5910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D46E7C-5A95-4A37-90FA-8EBD743F5910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0037EBE-49B8-4F9C-AE0D-816C4E54865F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0037EBE-49B8-4F9C-AE0D-816C4E54865F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0037EBE-49B8-4F9C-AE0D-816C4E54865F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0037EBE-49B8-4F9C-AE0D-816C4E54865F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,5 +63,7 @@ Global
 		{2F2A4D0E-5445-4CB7-A293-BB435900053A} = {55C3BC1B-0F02-4989-8254-18973404F954}
 		{5B6130E0-96B2-48A3-BD7F-B6239D6E9DD2} = {55C3BC1B-0F02-4989-8254-18973404F954}
 		{E6472007-5DCA-4F15-87DD-D430A8309C69} = {55C3BC1B-0F02-4989-8254-18973404F954}
+		{A8D46E7C-5A95-4A37-90FA-8EBD743F5910} = {55C3BC1B-0F02-4989-8254-18973404F954}
+		{D0037EBE-49B8-4F9C-AE0D-816C4E54865F} = {55C3BC1B-0F02-4989-8254-18973404F954}
 	EndGlobalSection
 EndGlobal

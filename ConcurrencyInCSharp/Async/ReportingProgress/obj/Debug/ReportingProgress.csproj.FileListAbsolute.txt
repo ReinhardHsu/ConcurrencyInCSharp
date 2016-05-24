@@ -7,3 +7,13 @@ E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingPro
 E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.Enlightenment.xml
 E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.exe
 E:\Project\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.pdb
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\ReportingProgress.exe.config
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\ReportingProgress.exe
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\ReportingProgress.pdb
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.dll
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.xml
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.csprojResolveAssemblyReference.cache
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.exe
+C:\Lab\GitHub\ConcurrencyInCSharp\ConcurrencyInCSharp\Async\ReportingProgress\obj\Debug\ReportingProgress.pdb
